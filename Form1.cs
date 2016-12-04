@@ -5,6 +5,9 @@ using Ozeki.VoIP;
 
 namespace _14_Call_Assistant
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public partial class FormCallAssistant : Form
     {
         ISoftPhone _softPhone;
